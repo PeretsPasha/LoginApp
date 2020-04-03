@@ -12,7 +12,7 @@ public class SharedPreferenceConfig {
     public SharedPreferenceConfig(Context context) {
         this.context = context;
 
-        preferences = context.getSharedPreferences(context.getResources().getString(R.string.login_preference), Context.MODE_PRIVATE);
+        preferences = context.getSharedPreferences("login_preferences", Context.MODE_PRIVATE);
     }
 
 

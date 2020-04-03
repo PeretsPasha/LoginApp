@@ -2,10 +2,9 @@
 
     <string name="app_name">LoginApp</string>
 
-    <string name="user_name">Pasha</string>
+    <string name="user_name">pasha</string>
     <string name="user_password">perets</string>
 
-    <string name="login_preference">com.example.loginapp_login_preference</string>
-    <string name="login_status_preference">com.example.loginapp_login_status_preference</string>
+
 
 </resources>
